@@ -5,7 +5,7 @@ A collection of Houdini nodes for shattering geometry, offering a more stable al
 Main Nodes:
 - **RBD Fracture**: Analog of Material Fracture SOP. Works only with "Concrete" type of fracturing
 - **Shatterizer**: Analog of Boolean Shatter SOP. 
-- **Intersection** Analysis Custom: Analog of Intersection Analysis.
+- **Intersection Analysis Custom**: Analog of Intersection Analysis.
 
 Nodes for Managing Edge Groups (Preserving, Copying, Transferring):
 - **Remesh Preserve Edges**: Remesh while preserving edge groups.
